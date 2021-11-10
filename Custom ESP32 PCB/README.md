@@ -1,5 +1,7 @@
 ## CUSTOM ESP32 PCB
 
+Custom made development board for ESP32.
+
 ![ESP32 1 3D](https://user-images.githubusercontent.com/41343686/141197993-772b9b15-2b71-41bc-b681-216f4798bae9.png)
 
 
