@@ -8,7 +8,8 @@ The PCB includes:
 - GPIO I2C Multiplexer.
 - USB-UART converter.
 - Fully integrated battery charger module.
-- Different sources of power alimentation (220V AC, 5VDC, USB 5V)
+- 18650 Battery socket.
+- Different sources of power alimentation (220V AC, 5VDC, USB 5V, 18650 battery)
 - 3 general purpose push buttons
 - 3 general purpose leds
 
