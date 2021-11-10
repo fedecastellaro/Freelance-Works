@@ -12,3 +12,7 @@ The PCB includes:
 - 3 general purpose push buttons
 - 3 general purpose leds
 
+![esp32 full 1](https://user-images.githubusercontent.com/41343686/141198970-a34c6a5d-0f91-4d1c-bbd9-1303c97622c7.jpeg)
+
+![esp32 full 2](https://user-images.githubusercontent.com/41343686/141198976-956d79d1-8cf9-4569-b48d-2b69e776738b.jpeg)
+
